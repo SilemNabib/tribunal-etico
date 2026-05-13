@@ -340,6 +340,7 @@ const QuienesPage = () => {
         eyebrow="Sobre el Tribunal"
         title="Guardianes de la dignidad profesional."
         lead="Una institución autónoma, creada por la Ley 911 de 2004, encargada del control ético-disciplinario del ejercicio de la enfermería en la Región Suroccidental colombiana."
+        videoSrc="assets/video_presentacion.mp4"
       />
       <IdentidadBlock/>
       <MisionVision/>
@@ -349,13 +350,41 @@ const QuienesPage = () => {
   );
 };
 
-const PageHero = ({ eyebrow, title, lead }) => (
+const PageHero = ({ eyebrow, title, lead, videoSrc }) => (
   <section style={{
-    background: "linear-gradient(180deg, var(--navy-900) 0%, #060c4d 100%)",
+    background: videoSrc ? "none" : "linear-gradient(180deg, var(--navy-900) 0%, #060c4d 100%)",
     color: "#fff", position: "relative", overflow: "hidden",
   }}>
+    {videoSrc && (
+      <video
+        style={{
+          position: "absolute",
+          inset: 0,
+          width: "100%",
+          height: "100%",
+          objectFit: "cover",
+          zIndex: 0,
+        }}
+        autoPlay
+        muted
+        loop
+        playsInline
+      >
+        <source src={videoSrc} type="video/mp4" />
+      </video>
+    )}
+
+    <div style={{
+      position: "absolute",
+      inset: 0,
+      background: videoSrc
+        ? "linear-gradient(135deg, rgba(2,8,102,0.75) 0%, rgba(6,12,77,0.65) 100%)"
+        : "none",
+      zIndex: 1,
+    }}/>
+
     <Ribbon style={{ opacity: 0.1 }}/>
-    <div style={{ maxWidth: 1320, margin: "0 auto", padding: "120px 56px 80px", position: "relative", zIndex: 1 }}>
+    <div style={{ maxWidth: 1320, margin: "0 auto", padding: "120px 56px 80px", position: "relative", zIndex: 2 }}>
       <div className="mono" style={{ fontSize: 11, letterSpacing: "0.22em", textTransform: "uppercase", color: "rgba(255,255,255,0.6)", marginBottom: 22 }}>
         — {eyebrow}
       </div>
