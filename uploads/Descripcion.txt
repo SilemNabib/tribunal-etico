@@ -1,0 +1,108 @@
+Sección A: Inicio (Home) – Versión Actualizada
+1. Hero Video Background (Cabecera)
+
+Elemento Visual: Un video en loop de alta calidad (estética cinematográfica) que muestre la cotidianidad de la enfermería: el gesto de cuidado, la revisión de una historia clínica o la interacción profesional. El enfoque es la conciencia y la responsabilidad, evitando tropos de heroísmo.
+
+Texto Superpuesto: "Ética y Responsabilidad en el Cuidado de la Vida." (Tipografía: Montserrat Bold en blanco).
+
+Botón Primario: "Conoce el Tribunal" (Estilo: Contorno blanco o sólido azul institucional).
+
+2. Módulo de Accesos Rápidos (Tarjetas)
+Cuatro bloques limpios con iconos minimalistas:
+
+Presentar Queja: "Guía y radicación de procesos."
+
+Formación Ética: "Recursos para la práctica profesional."
+
+¿Quiénes Somos?: "Nuestra misión y marco legal."
+
+Contactos: "Canales de atención directa."
+
+3. Slider de Noticias (Inspiración STIMURA)
+
+Diseño: Carrusel horizontal con desplazamiento suave. Cada tarjeta presenta una imagen profesional, título de la noticia y una breve descripción de dos líneas.
+
+Contenido: "Nuevas disposiciones de la Ley 911", "Registro del último Webinar", "Cronograma de visitas regionales".
+
+Sección B: Quiénes Somos (Página Interna)
+1. Identidad y Marco Legal
+
+Bloque de Texto: Breve reseña histórica y presentación de las funciones del Tribunal según la Ley 911 de 2004.
+
+Misión y Visión: Presentadas en dos columnas con diseño limpio y tipografía aireada.
+
+2. Talento Humano (Directorio)
+
+Visual: Grilla de tarjetas individuales.
+
+Requisito: Reemplazo de fotos actuales por retratos unificados (mismo fondo, iluminación y encuadre) que transmitan profesionalismo.
+
+Información: Nombre completo, Cargo (Magistrados / Personal Administrativo) y perfil profesional breve.
+
+Sección C: Presentar una Queja (Página Interna)
+1. Guía de Pasos (Proceso Simplificado)
+Diseño visual tipo timeline o bloques numerados:
+
+Paso 1: Verificar: "¿Su caso aplica para un proceso ético-disciplinario?"
+
+Paso 2: Reunir datos: "Lista de documentos y pruebas necesarias."
+
+Paso 3: Enviar: Acceso al formulario de radicación.
+
+2. Formulario de Radicación
+
+Diseño: Campos amplios, tipografía clara y validaciones en tiempo real para evitar errores del usuario.
+
+3. Etapa Post-Radicación
+
+Infografía: "¿Qué sucede después?" Explicación gráfica de las fases de investigación, pruebas y fallo para generar transparencia.
+
+Sección D: Formación Ética (Nueva Sección)
+Esta página funciona como un centro de recursos con un menú de categorías:
+
+1. Código Ético y Casos
+
+Artículos: El Código de Ética segmentado y explicado en lenguaje ciudadano.
+
+Casos Éticos Explicados: Casos reales (anonimizados) narrados para generar aprendizaje preventivo.
+
+2. Centro Multimedia
+
+Galería: Videos educativos, fragmentos de webinars y conferencias destacadas.
+
+3. Repositorio de Descargas
+
+Lista de Archivos: Guías de bolsillo, infografías del código y checklists descargables en PDF.
+
+Sección E: Capacitaciones y Eventos (Página Interna)
+1. Navegación por Pestañas (Tabs)
+
+Pestaña Capacitaciones: Listado de cursos actuales, talleres de actualización y cronograma de formación.
+
+Pestaña Eventos: Información sobre congresos, encuentros nacionales y jornadas regionales.
+
+2. Memoria Institucional
+
+Archivo Histórico: Galería y documentos de eventos pasados.
+
+Filtro: Buscador por año o tipo de actividad.
+
+Sección F: Comunicados y Notificaciones (Página Interna)
+1. Repositorio Oficial
+
+Estructura: Tabla dinámica con buscador integrado.
+
+Columnas:
+
+Fecha: Día/Mes/Año.
+
+Tipo: (Resolución, Edicto, Comunicado de prensa).
+
+Documento: Botón de descarga "Ver PDF".
+
+Consideraciones de Marca y Diseño (Del PDF Tribunal)
+Paleta: Azul institucional como color de acento y navegación; blanco y grises claros para fondos de lectura.
+
+Tipografía: Mantener la jerarquía visual de los entregables de Blackmouth (Títulos potentes vs. cuerpos de texto legibles).
+
+Interacción: Micro-animaciones al pasar el cursor (hover) por las tarjetas de noticias y botones para dar una sensación de sitio moderno y "vivo".
